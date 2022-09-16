@@ -1,0 +1,213 @@
+style.css
+<body>
+body {
+  background: linear-gradient(to right, #e4d1b9, #b09b71);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.my-photo p {
+  text-align: center;
+  padding: 3px;
+  color: #483838;
+  font-size: 21px;
+}
+
+.my-photo a {
+  text-align: center;
+  color: #483838;
+  text-decoration: none;
+}
+
+img {
+  margin-top: 30px;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 99em;
+  box-shadow: 0px 0px 10px 5px;
+  color: #483838;
+}
+
+.my-whatsapp-me h2 {
+  text-align: left;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 30px;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 20px;
+  box-shadow: 0px 0px 10px 3px;
+  background: yellow;
+}
+
+.my-whastapp-me a {
+  text-decoration: none;
+  color: #483838;
+}
+
+.my-instagram h2 {
+  font-size: 20px;
+  border-radius: 20px;
+  text-align: left;
+  padding: 30px;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 20px;
+  box-shadow: 0px 0px 10px 3px;
+  background: yellow;
+}
+
+.my-instagram a {
+  text-decoration: none;
+  color: #483838;
+}
+
+.my-facebook h2 {
+  font-size: 20px;
+  border-radius: 20px;
+  text-align: left;
+  padding: 30px;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 20px;
+  box-shadow: 0px 0px 10px 3px;
+  background: yellow;
+}
+
+.my-facebook a {
+  text-decoration: none;
+  color: #483838;
+}
+</body>
+.title {
+  text-align: center;
+}
+
+td,
+th {
+  border: 2px solid green;
+  text-align: center;
+  padding: 10px;
+}
+
+td:hover {
+  background-color: green;
+}
+
+th:hover {
+  background-color: green;
+}
+
+.kepala-tabel {
+  background-color: green;
+}
+
+.tabel {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tombol-friends {
+  background-color: lightgoldenrodyellow;
+  color: #483838;
+  border-radius: 20px;
+  padding: 15px 5px;
+  width: 120px;
+  box-shadow: 0px 0px 10px 3px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tombol-friends a {
+  padding: 15px 25px;
+}
+
+.tombol-friends-css {
+  background-color: yellow;
+  color: #483838;
+  border-radius: 20px;
+  padding: 15px 5px;
+  width: 120px;
+  box-shadow: 0px 0px 10px 3px;
+  margin-right: 450px;
+  margin-top: -48px;
+  margin-left: auto;
+}
+
+.tombol-friends-css a {
+  padding: 15px 25px;
+}
+
+.tombol-friends-jquery {
+  background-color: blue;
+  color: #483838;
+  border-radius: 20px;
+  padding: 15px 5px;
+  width: 145px;
+  box-shadow: 0px 0px 10px 3px;
+  margin-right: 450px;
+  margin-top: -48px;
+  margin-left: 429px;
+}
+
+.tombol-friends-jquery a {
+  padding: 15px 25px;
+}
+
+.tombol-back-friends {
+  margin-top: 40px;
+}
+
+.tombol-back-friends a {
+  background-color: green;
+  font-size: 20px;
+  color: black;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.tombol-back-friends a:hover {
+  background-color: burlywood;
+}
+
+.tombol-back-friends-css {
+  margin-top: 40px;
+}
+
+.tombol-back-friends-css a {
+  background-color: green;
+  font-size: 20px;
+  color: black;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.tombol-back-friends-css a:hover {
+  background-color: burlywood;
+}
+
+.ngubah {
+  background-color: #e4d1b9;
+}
+
+.ngubah:hover {
+  background-color: green;
+}
+
+.ngapus {
+  background-color: #e4d1b9;
+}
+
+.ngapus:hover {
+  background-color: green;
+}
